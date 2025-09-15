@@ -1,0 +1,25 @@
+[index.html](https://github.com/user-attachments/files/22351548/index.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ann's portfolto</title>
+</head>
+<body>
+    <h1>Hello</h1>
+    <h2>hi!</h2>
+    <h3>this is my favorite class!</h3>
+    <a href="demo.html">Click to go to the Demo page</a>
+    <ol>
+        <li>Collection number</li>
+        <li>Collection number</li>
+        <li>Collection number</li>
+    </ol>
+    <ul>
+        <li>Collection number</li>
+        <li>Collection number</li>
+        <li>Collection number</li>
+    </ul>
+    </body>
+    </html>
